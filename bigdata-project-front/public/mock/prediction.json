@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": [
+    { "year": 2023, "prediction": 2750.5 },
+    { "year": 2024, "prediction": 2862.1 },
+    { "year": 2025, "prediction": 2958.9 },
+    { "year": 2026, "prediction": 2770.3 }
+  ]
+}

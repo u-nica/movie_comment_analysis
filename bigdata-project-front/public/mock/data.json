@@ -1,0 +1,176 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "北京": [
+      { "year": 2020, "production": 0.5, "growth_rate": -0.020 },
+      { "year": 2021, "production": 0.49, "growth_rate": -0.020 },
+      { "year": 2022, "production": 0.48, "growth_rate": -0.020 }
+    ],
+    "天津": [
+      { "year": 2020, "production": 0.8, "growth_rate": 0.025 },
+      { "year": 2021, "production": 0.82, "growth_rate": 0.024 },
+      { "year": 2022, "production": 0.84, "growth_rate": 0.024 }
+    ],
+    "河北": [
+      { "year": 2020, "production": 35.7, "growth_rate": 0.015 },
+      { "year": 2021, "production": 34.9, "growth_rate": -0.022 },
+      { "year": 2022, "production": 36.2, "growth_rate": 0.037 }
+    ],
+    "山西": [
+      { "year": 2020, "production": 25.0, "growth_rate": -0.020 },
+      { "year": 2021, "production": 24.5, "growth_rate": 0.029 },
+      { "year": 2022, "production": 25.2, "growth_rate": 0.029 }
+    ],
+    "内蒙古": [
+      { "year": 2020, "production": 100.0, "growth_rate": 0.020 },
+      { "year": 2021, "production": 102.0, "growth_rate": 0.029 },
+      { "year": 2022, "production": 105.0, "growth_rate": 0.029 }
+    ],
+    "辽宁": [
+      { "year": 2020, "production": 80.0, "growth_rate": 0.025 },
+      { "year": 2021, "production": 82.0, "growth_rate": 0.037 },
+      { "year": 2022, "production": 85.0, "growth_rate": 0.037 }
+    ],
+    "吉林": [
+      { "year": 2020, "production": 90.0, "growth_rate": 0.022 },
+      { "year": 2021, "production": 92.0, "growth_rate": -0.022 },
+      { "year": 2022, "production": 90.0, "growth_rate": -0.022 }
+    ],
+    "黑龙江": [
+      { "year": 2020, "production": 150.0, "growth_rate": 0.033 },
+      { "year": 2021, "production": 155.0, "growth_rate": 0.032 },
+      { "year": 2022, "production": 160.0, "growth_rate": 0.032 }
+    ],
+    "上海": [
+      { "year": 2020, "production": 0.3, "growth_rate": 0.033 },
+      { "year": 2021, "production": 0.31, "growth_rate": 0.032 },
+      { "year": 2022, "production": 0.32, "growth_rate": 0.032 }
+    ],
+    "江苏": [
+      { "year": 2020, "production": 180.0, "growth_rate": 0.028 },
+      { "year": 2021, "production": 185.0, "growth_rate": 0.027 },
+      { "year": 2022, "production": 190.0, "growth_rate": 0.027 }
+    ],
+    "浙江": [
+      { "year": 2020, "production": 40.0, "growth_rate": 0.025 },
+      { "year": 2021, "production": 41.0, "growth_rate": 0.024 },
+      { "year": 2022, "production": 42.0, "growth_rate": 0.024 }
+    ],
+    "安徽": [
+      { "year": 2020, "production": 200.0, "growth_rate": 0.025 },
+      { "year": 2021, "production": 205.0, "growth_rate": 0.024 },
+      { "year": 2022, "production": 210.0, "growth_rate": 0.024 }
+    ],
+    "福建": [
+      { "year": 2020, "production": 30.0, "growth_rate": 0.033 },
+      { "year": 2021, "production": 31.0, "growth_rate": 0.032 },
+      { "year": 2022, "production": 32.0, "growth_rate": 0.032 }
+    ],
+    "江西": [
+      { "year": 2020, "production": 120.0, "growth_rate": 0.017 },
+      { "year": 2021, "production": 122.0, "growth_rate": 0.025 },
+      { "year": 2022, "production": 125.0, "growth_rate": 0.025 }
+    ],
+    "山东": [
+      { "year": 2020, "production": 22.4, "growth_rate": -0.052 },
+      { "year": 2021, "production": 21.8, "growth_rate": -0.027 },
+      { "year": 2022, "production": 23.1, "growth_rate": 0.060 }
+    ],
+    "河南": [
+      { "year": 2020, "production": 15.2, "growth_rate": -0.110 },
+      { "year": 2021, "production": 14.8, "growth_rate": -0.026 },
+      { "year": 2022, "production": 16.5, "growth_rate": 0.115 }
+    ],
+    "湖北": [
+      { "year": 2020, "production": 28.9, "growth_rate": 0.020 },
+      { "year": 2021, "production": 29.5, "growth_rate": 0.021 },
+      { "year": 2022, "production": 27.8, "growth_rate": -0.058 }
+    ],
+    "湖南": [
+      { "year": 2020, "production": 220.0, "growth_rate": 0.023 },
+      { "year": 2021, "production": 225.0, "growth_rate": 0.022 },
+      { "year": 2022, "production": 230.0, "growth_rate": 0.022 }
+    ],
+    "广东": [
+      { "year": 2020, "production": 60.0, "growth_rate": 0.033 },
+      { "year": 2021, "production": 62.0, "growth_rate": 0.032 },
+      { "year": 2022, "production": 64.0, "growth_rate": 0.032 }
+    ],
+    "广西": [
+      { "year": 2020, "production": 50.0, "growth_rate": 0.040 },
+      { "year": 2021, "production": 52.0, "growth_rate": 0.038 },
+      { "year": 2022, "production": 54.0, "growth_rate": 0.038 }
+    ],
+    "海南": [
+      { "year": 2020, "production": 5.0, "growth_rate": 0.020 },
+      { "year": 2021, "production": 5.1, "growth_rate": 0.020 },
+      { "year": 2022, "production": 5.2, "growth_rate": 0.020 }
+    ],
+    "重庆": [
+      { "year": 2020, "production": 45.0, "growth_rate": 0.022 },
+      { "year": 2021, "production": 46.0, "growth_rate": 0.022 },
+      { "year": 2022, "production": 47.0, "growth_rate": 0.022 }
+    ],
+    "四川": [
+      { "year": 2020, "production": 300.0, "growth_rate": 0.033 },
+      { "year": 2021, "production": 310.0, "growth_rate": 0.032 },
+      { "year": 2022, "production": 320.0, "growth_rate": 0.032 }
+    ],
+    "贵州": [
+      { "year": 2020, "production": 70.0, "growth_rate": 0.029 },
+      { "year": 2021, "production": 72.0, "growth_rate": 0.042 },
+      { "year": 2022, "production": 75.0, "growth_rate": 0.042 }
+    ],
+    "云南": [
+      { "year": 2020, "production": 85.0, "growth_rate": 0.024 },
+      { "year": 2021, "production": 87.0, "growth_rate": 0.034 },
+      { "year": 2022, "production": 90.0, "growth_rate": 0.034 }
+    ],
+    "西藏": [
+      { "year": 2020, "production": 1.0, "growth_rate": 0.020 },
+      { "year": 2021, "production": 1.02, "growth_rate": 0.029 },
+      { "year": 2022, "production": 1.05, "growth_rate": 0.029 }
+    ],
+    "陕西": [
+      { "year": 2020, "production": 35.0, "growth_rate": 0.029 },
+      { "year": 2021, "production": 36.0, "growth_rate": 0.028 },
+      { "year": 2022, "production": 37.0, "growth_rate": 0.028 }
+    ],
+    "甘肃": [
+      { "year": 2020, "production": 55.0, "growth_rate": 0.018 },
+      { "year": 2021, "production": 56.0, "growth_rate": 0.036 },
+      { "year": 2022, "production": 58.0, "growth_rate": 0.036 }
+    ],
+    "青海": [
+      { "year": 2020, "production": 2.0, "growth_rate": 0.025 },
+      { "year": 2021, "production": 2.05, "growth_rate": 0.024 },
+      { "year": 2022, "production": 2.1, "growth_rate": 0.024 }
+    ],
+    "宁夏": [
+      { "year": 2020, "production": 3.0, "growth_rate": 0.033 },
+      { "year": 2021, "production": 3.1, "growth_rate": 0.032 },
+      { "year": 2022, "production": 3.2, "growth_rate": 0.032 }
+    ],
+    "新疆": [
+      { "year": 2020, "production": 516.1, "growth_rate": 0.031 },
+      { "year": 2021, "production": 512.9, "growth_rate": -0.006 },
+      { "year": 2022, "production": 539.1, "growth_rate": 0.051 }
+    ],
+    "台湾": [
+      { "year": 2020, "production": 8.0, "growth_rate": 0.013 },
+      { "year": 2021, "production": 8.1, "growth_rate": 0.012 },
+      { "year": 2022, "production": 8.2, "growth_rate": 0.012 }
+    ],
+    "香港": [
+      { "year": 2020, "production": 0.01, "growth_rate": 0.000 },
+      { "year": 2021, "production": 0.01, "growth_rate": 0.000 },
+      { "year": 2022, "production": 0.01, "growth_rate": 0.000 }
+    ],
+    "澳门": [
+      { "year": 2020, "production": 0.01, "growth_rate": 0.000 },
+      { "year": 2021, "production": 0.01, "growth_rate": 0.000 },
+      { "year": 2022, "production": 0.01, "growth_rate": 0.000 }
+    ]
+  }
+}

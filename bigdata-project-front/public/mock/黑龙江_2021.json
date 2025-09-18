@@ -1,0 +1,41 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "city": "哈尔滨市",
+      "yield": 15820.7,
+      "percentage": 0.35
+    },
+    {
+      "city": "齐齐哈尔市",
+      "yield": 9540.2,
+      "percentage": 0.21
+    },
+    {
+      "city": "佳木斯市",
+      "yield": 7890.1,
+      "percentage": 0.18
+    },
+    {
+      "city": "绥化市",
+      "yield": 5600.5,
+      "percentage": 0.12
+    },
+    {
+      "city": "大庆市",
+      "yield": 3400.0,
+      "percentage": 0.08
+    },
+    {
+      "city": "牡丹江市",
+      "yield": 2150.9,
+      "percentage": 0.05
+    },
+    {
+        "city": "鸡西市",
+        "yield": 980.3,
+        "percentage": 0.01
+    }
+  ]
+}
